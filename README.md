@@ -31,20 +31,37 @@ Por lo tanto, las zonas geográficas alcanzadas son:
 - **Problemáticas:**  
   1. Fluctuación de precios de aguacates en mercados clave.  
   2. Desconocimiento de la calidad de los aguacates según región de origen.  
-  3. Competencia que ya ofrece opciones saludables y culturalmente adaptadas.  
+  3. Competencia que ya ofrece opciones saludables y culturalmente adaptadas.
+  4. Falta de claridad sobre la potencial demanda de aguacates en cada hotel.  
 
 - **Mercado objetivo:** Turistas de EEUU y México, y visitantes internacionales que demandan opciones frescas y saludables.  
 
-- **Competencia:** Resorts líderes que incluyen guacamole gourmet, tostadas de aguacate y opciones con aguacate en sus menús.
+- **Competencia:** Resorts líderes que incluyen guacamole gourmet, tostadas de aguacate y opciones con aguacate en sus menús. 
+
+Entre ellos, se destacan como principales competidores:
+
+  **1.Ojai Valley Inn, California**
+Este resort en California es famoso por su experiencia de bienestar y alimentos frescos, que incluyen opciones como guacamole en sus menús de cocina saludable​
+
+**2.The Ritz-Carlton, Sarasota, Florida**
+Ofrece menús que incorporan aguacate, aprovechando ingredientes frescos para opciones saludables como guacamole en sus platos de ensaladas y snacks​
+
+**3.La Playa Beach & Golf Resort, Naples, Florida**
+Se destacan sus opciones saludables, como ensaladas con aguacate y guacamole, integrados en el menú de su restaurante gourmet​
+
+**4.Hotel del Coronado, San Diego, California**
+Histórico hotel que incluye varias opciones frescas y saludables, con aguacate como un ingrediente clave, ya sea en ensaladas o como parte del menú de desayuno​
+
+**5.The Standard, Miami, Florida**
+Conocido por su enfoque en la alimentación saludable y productos frescos, el restaurante de este hotel incluye guacamole y otros platos a base de aguacate​
+
+
 
 ### Informe As-Is
-Actualmente, el menú carece de opciones diferenciadas, lo que podría representar una pérdida de mercado en comparación con hoteles de la misma categoría. Además, no se han evaluado los precios y calidad del aguacate de regiones clave como México, Perú o California principalmente para garantizar rentabilidad.
-
----
+Actualmente, el menú de nuestro cliente carece de opciones diferenciadas, lo que podría representar una pérdida de mercado en comparación con hoteles de la misma categoría. Además, no se han evaluado los precios y calidad del aguacate de regiones clave como México, Perú o la misma California para garantizar rentabilidad y la sostenibilidad de la oferta en el tiempo.
 
 
-
-## **2. Transformando Datos en Oportunidades: Análisis de Ciencia de Datos**
+## **2. Transformando Datos en Oportunidades: Análisis de los Datos**
 
 Para abordar estos desafíos, hemos realizado un análisis exhaustivo basado en datos relevantes sobre precios y calidad del aguacate. Para ellos hemos incorporado variables internas y exógenas. A continuación detallamos las fuentes de datos utilizadas:
 
