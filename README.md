@@ -2,14 +2,28 @@
 
 Nombre del proyecto
 # **"AvoEconomics: The Business of Green Gold"**
-Cómo el aguacate transforma estrategias en los hoteles de lujo.
+Cómo el aguacate transforma estrategias en los hoteles de lujo de la cadena Hilton.
 
 
 
 
 ## **1. Diagnóstico Actual: Explorando Oportunidades en el Mercado de Aguacates**
 
-Nuestro cliente, una cadena hotelera, enfocada en la experiencia premium, busca diversificar su oferta gastronómica. Con huéspedes con un creciente interés en alimentos saludables y sostenibles, el equipo de negocio de la cadena hotelera ha identificado una oportunidad estratégica para incluir menús diseñados para atraer a un mercado de turistas estadounidenses y mexicanos, conocidos por su afinidad cultural con el aguacate.
+Nuestro cliente, la cadena hotelera Hilton (a partir de ahora "Cliente"), enfocada en la experiencia premium, busca diversificar su oferta gastronómica. Con huéspedes con un creciente interés en alimentos saludables y sostenibles, el equipo de negocio de la cadena hotelera ha identificado una oportunidad para incluir menús diseñados para atraer a un mercado de turistas estadounidenses y mexicanos, conocidos por su afinidad cultural con el aguacate en dos zonas estratégicas:
+
+1. Zona sur de EEUU: desde California hasta Florida, donde reside la mayoría de mexicanos.
+2. New York: por tener un público de alto poder adquisitivo y exigente.
+
+Por lo tanto, los 12 hoteles alcanzados para este estudio son:
+
+![alt text](tablahoteles.png)
+
+
+Por lo tanto, las zonas geográficas alcanzadas son:
+
+![alt text](maparegiones.png)
+
+
 
 ### Premisas Iniciales
 - **Situación actual:** La cadena hotelera no tiene un enfoque claro en alimentos saludables ni en personalización cultural en sus menús premium.  
@@ -42,8 +56,12 @@ Para abordar estos desafíos, hemos realizado un análisis exhaustivo basado en 
 
 
 ### Fuentes Exógenas:
-- **Precio del Aguacate:** Datos históricos y en tiempo real de mercados clave (México, Perú, California).  
-- **Demanda del Mercado:** Datos de búsqueda y tendencias de redes sociales, como Instagram y Google Trends.  
+- **Organización de las Naciones Unidas para la Alimentación y la Agricultura:** (FAOSTAT_Crops and livestock products.csv) Datos históricos y en tiempo real de mercados clave (México, Perú, California).  
+- **DOrganización de las Naciones Unidas para la Alimentación y la Agricultura:** (FAOSTAT_data_avocado_Producer_Prices.csv) Datos de búsqueda y tendencias de redes sociales, como Instagram y Google Trends.  
+
+
+
+
 - **Estadísticas de Turismo:** Afiliación cultural y preferencias alimentarias de turistas mexicanos en los destinos clave.
 
 ### Metodología
