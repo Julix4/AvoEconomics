@@ -1,0 +1,39 @@
+# Listas para la clasificación de location
+northeast = ["Providence", "Boston", "Albany", "BuffaloRochester", "NorthernNewEngland",
+             "HartfordSpringfield", "HarrisburgScranton", "NewYork", "Pittsburgh", "Philadelphia"]
+midsouth = ["Louisville", "RichmondNorfolk", "Charlotte",
+            "RaleighGreensboro", "Roanoke", "BaltimoreWashington", "Nashville"]
+southeast = ["MiamiFtLauderdale", "Orlando",
+             "Jacksonville", "SouthCarolina", "Tampa", "Atlanta"]
+great_lakes = ["CincinnatiDayton", "GrandRapids",
+               "Indianapolis", "Columbus", "Detroit", "Chicago"]
+plains = ["StLouis"]
+south_central = ["DallasFtWorth", "NewOrleansMobile", "Houston"]
+west = ["Spokane", "Boise", "Seattle", "Portland", "Denver",
+        "WestTexNewMexico", "LasVegas", "PhoenixTucson", "West"]
+california = ["SanDiego", "SanFrancisco", "Sacramento", "LosAngeles"]
+
+# Funcion de clasificación
+
+
+def classify_location(location):
+    if location in northeast:
+        return 'northeast'
+    elif location in midsouth:
+        return 'midsouth'
+    elif location in southeast:
+        return 'southeast'
+    elif location in great_lakes:
+        return 'great_lakes'
+    elif location in plains:
+        return 'plains'
+    elif location in south_central:
+        return 'south_central'
+    elif location in west:
+        return 'west'
+    elif location in california:
+        return 'california'
+    elif location == 'TotalUS':
+        return 'TotalUS'
+    else:
+        return 'Unknown'
