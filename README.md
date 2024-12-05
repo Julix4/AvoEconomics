@@ -5,6 +5,8 @@ Nombre del proyecto
 Cómo el aguacate transforma estrategias en los hoteles de lujo.
 
 
+
+
 ## **1. Diagnóstico Actual: Explorando Oportunidades en el Mercado de Aguacates**
 
 Nuestro cliente, una cadena hotelera, enfocada en la experiencia premium, busca diversificar su oferta gastronómica. Con huéspedes con un creciente interés en alimentos saludables y sostenibles, el equipo de negocio de la cadena hotelera ha identificado una oportunidad estratégica para incluir menús diseñados para atraer a un mercado de turistas estadounidenses y mexicanos, conocidos por su afinidad cultural con el aguacate.
@@ -13,7 +15,7 @@ Nuestro cliente, una cadena hotelera, enfocada en la experiencia premium, busca 
 - **Situación actual:** La cadena hotelera no tiene un enfoque claro en alimentos saludables ni en personalización cultural en sus menús premium.  
 
 - **Problemáticas:**  
-  1. Fluctuación de precios de aguacates en mercados clave.  
+  1. Fluctuación de precios de aguacates en mercados clave (donde opera).  
   2. Desconocimiento de la calidad de los aguacates según región de origen.  
   3. Competencia que ya ofrece opciones saludables y culturalmente adaptadas.  
 
