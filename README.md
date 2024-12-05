@@ -1,7 +1,7 @@
 # **Estudio de Mercado y Análisis de Aguacates para Cadena Hotelera**
 
 Nombre del proyecto
-# **"Guaconomics: The Business of Green Gold"**
+# **"AvoEconomics: The Business of Green Gold"**
 Cómo el aguacate transforma estrategias en los hoteles de lujo.
 
 
@@ -15,7 +15,7 @@ Nuestro cliente, una cadena hotelera, enfocada en la experiencia premium, busca 
 - **Situación actual:** La cadena hotelera no tiene un enfoque claro en alimentos saludables ni en personalización cultural en sus menús premium.  
 
 - **Problemáticas:**  
-  1. Fluctuación de precios de aguacates en mercados clave (donde opera).  
+  1. Fluctuación de precios de aguacates en mercados clave.  
   2. Desconocimiento de la calidad de los aguacates según región de origen.  
   3. Competencia que ya ofrece opciones saludables y culturalmente adaptadas.  
 
