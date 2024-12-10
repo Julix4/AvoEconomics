@@ -5,6 +5,24 @@ Nombre del proyecto
 Cómo el aguacate transforma estrategias en los hoteles de lujo de la cadena Hilton.
 
 
+Equipo de Proyecto
+Julieth
+Gustavo
+
+
+Planificación
+**Pitch: Gestión Ágil en GitHub para el Éxito del Proyecto**  
+
+En nuestro proyecto, adoptamos una metodología ágil para planificar y gestionar tareas, utilizando GitHub como nuestra principal herramienta de colaboración. 
+Esta metodología nos permitió dividir el trabajo en pequeñas entregas incrementales, priorizando y ordenando la colaboración interna.  
+En GitHub, implementamos un tablero Kanban, estructurando el flujo de trabajo en columnas como "Por hacer", "En progreso" y "Completado". 
+
+![alt text](imageagil.png)
+
+Cada tarea fue registrada como un *issue*, con descripciones claras, asignaciones responsables y etiquetas que facilitaron la organización y priorización. 
+Los *milestones* nos ayudaron a definir metas clave y seguir nuestro progreso en tiempo real.  
+
+Esta estrategia no solo aumentó la transparencia del equipo, sino que también fomentó una comunicación más fluida y una toma de decisiones más ágil. 
 
 
 ## **1. Diagnóstico Actual: Explorando Oportunidades en el Mercado de Aguacates**
@@ -62,15 +80,20 @@ Actualmente, el menú de nuestro cliente carece de opciones diferenciadas, lo qu
 
 
   **Eficiencia en la cadena de suministro y abastecimiento** 
+  
   Pregunta clave: ¿Estamos comprando los aguacates de proveedores que equilibran precio, calidad y confiabilidad, minimizando el tiempo de transporte y maximizando la frescura?
   Por qué es importante: Los aguacates tienen una vida útil limitada. Trabajar con proveedores cercanos o con procesos logísticos ágiles asegura que lleguen frescos y se reduzca el desperdicio.
   Palanca clave: Optimización de proveedores con contratos flexibles y métodos sostenibles.
 
+
   **Control de costos y márgenes en el menú**
+  
   Pregunta clave: ¿Estamos generando el margen esperado en los platos que contienen aguacates sin sacrificar la calidad o elevar los costos de operación?
   Por qué es importante: Los aguacates son un ingrediente premium. Es crucial evaluar su contribución al margen bruto del menú y ajustar los precios si es necesario, asegurando que los platos sigan siendo competitivos y rentables.
 
+
   **Monitoreo del desperdicio**
+
   Pregunta clave: ¿Qué porcentaje de los aguacates comprados termina en desperdicio, y qué procesos estamos implementando para reducirlo?
   Por qué es importante: El desperdicio no solo afecta la rentabilidad, sino que también contradice objetivos sostenibles. Evaluar puntos críticos (preparación, almacenamiento o sobrantes en platos) es clave para minimizar pérdidas.
 
