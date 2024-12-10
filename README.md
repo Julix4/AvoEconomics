@@ -117,6 +117,13 @@ Para abordar estos desafíos, hemos realizado un análisis exhaustivo basado en 
 - **Avocado:** (avocado.csv): Contiene los datos venta de aguacate que nuestro cliente ha comprado de una consultora para analizar internamente. Este acrchivo contiene los campos: Date,AveragePrice,Total Volume,4046,4225,4770,Total Bags,Small Bags,Large Bags,XLarge Bags,type,year,region 
 
 
+- **Campo derivado**: Para poder estimar la cantidad de aguacate convencionales y orgánicos contenidos en una tonelada y estimar el precio de la tonelada, hemos creado/agregado nuevos campos derivados. Para estimar los pesos promedios de cada aguacate según su tipo nos hemos basado en la siguiente tabla de estandarización:
+
+![alt text](imagepesosavg.png)
+
+Por lo tanto, determinamos los siguientes pesos promedio según el tipo de aguacate: convencional 250gr y orgánico 300gr 
+
+
 
 ### Fuentes Exógenas:
 - **Organización de las Naciones Unidas para la Alimentación y la Agricultura:** (FAOSTAT_Crops and livestock products.csv) Datos históricos y en tiempo real de mercados clave (México, Perú, California).  
