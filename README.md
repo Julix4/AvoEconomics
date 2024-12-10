@@ -8,8 +8,9 @@ Cómo el aguacate transforma estrategias en los hoteles de lujo de la cadena Hil
 
 ## **Equipo de Proyecto**
 
-Julieth Vasco Bueno
-Gustavo Chavez
+* Julieth Vasco Bueno
+* Gustavo Chavez
+
 
 
 ## **Planificación**
@@ -26,6 +27,7 @@ Los *milestones* nos ayudaron a definir metas clave y seguir nuestro progreso en
 Esta estrategia no solo aumentó la transparencia del equipo, sino que también fomentó una comunicación más fluida y una toma de decisiones más ágil. 
 
 
+---
 
 
 ## **1. Diagnóstico Actual: Explorando Oportunidades en el Mercado de Aguacates**
