@@ -76,7 +76,7 @@ Se destacan sus opciones saludables, como ensaladas con aguacate y guacamole, in
 Histórico hotel que incluye varias opciones frescas y saludables, con aguacate como un ingrediente clave, ya sea en ensaladas o como parte del menú de desayuno​
 
 **5.The Standard, Miami, Florida**
-Conocido por su enfoque en la alimentación saludable y productos frescos, el restaurante de este hotel incluye guacamole y otros platos a base de aguacate​
+Conocido por su enfoque en la alimentación saludable y productos frescos, el restaurante de este hotel incluye guacamole y otros platos a base de aguacate​s
 
 
 
