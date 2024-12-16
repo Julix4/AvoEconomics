@@ -19,7 +19,7 @@ En nuestro proyecto, adoptamos una metodología ágil para planificar y gestiona
 Esta metodología nos permitió dividir el trabajo en pequeñas entregas incrementales, priorizando y ordenando la colaboración interna.  
 En GitHub, implementamos un tablero Kanban, estructurando el flujo de trabajo en columnas como "Por hacer", "En progreso" y "Completado". 
 
-![alt text](imageagil.png)
+![alt text](/images/imageagil.png)
 
 Cada tarea fue registrada como un *issue*, con descripciones claras, asignaciones responsables y etiquetas que facilitaron la organización y priorización. 
 Los *milestones* nos ayudaron a definir metas clave y seguir nuestro progreso en tiempo real.  
@@ -40,12 +40,12 @@ Con huéspedes que en los últimos años han demostrado un creciente interés en
 
 Por lo tanto, los 12 hoteles alcanzados para este estudio son:
 
-![alt text](tablahoteles.png)
+![alt text](images/tablahoteles.png)
 
 
 Por lo tanto, las zonas geográficas alcanzadas en esta iniciativa son:
 
-![alt text](maparegiones.png)
+![alt text](images/maparegiones.png)
 
 
 
@@ -119,7 +119,7 @@ Para abordar estos desafíos, hemos realizado un análisis exhaustivo basado en 
 
 - **Campo derivado**: Para poder estimar la cantidad de aguacate convencionales y orgánicos contenidos en una tonelada y estimar el precio de la tonelada, hemos creado/agregado nuevos campos derivados. Para estimar los pesos promedios de cada aguacate según su tipo nos hemos basado en la siguiente tabla de estandarización:
 
-![alt text](imagepesosavg.png)
+![alt text](images/imagepesosavg.png)
 
 Por lo tanto, determinamos los siguientes pesos promedio según el tipo de aguacate: convencional 250gr y orgánico 300gr 
 
