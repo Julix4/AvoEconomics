@@ -205,11 +205,11 @@ A continuación brindamos un breve detalle de ambas recomendaciones:
 ---
 
 ## **Cómo Usar Este Repositorio**
-1. **Carpeta `/data`:** Contiene los datasets utilizados, incluyendo precios históricos y datos turísticos.  
-2. **Carpeta `/notebooks`:** Jupyter Notebooks con los análisis de datos y visualizaciones.  
-3. **Carpeta `/reports`:** Resúmenes ejecutivos y gráficos listos para presentaciones.  
+1. **Carpeta `/data`:** Contiene los datasets utilizados, incluyendo precios de compra históricos y datos exógenos.  
+2. **Carpeta `/images`:** Contiene todas las imágenes utilizadas en este Readme.  
+3. **Carpeta `/utils`:** Contiene funciones utilizadas para ordenar y redefinir las regiones foco.  
 
 ---
 
 ## **Acerca del Proyecto**
-Este proyecto fue desarrollado como parte de un trabajo práctico para un posgrado en Data Science. Nuestro enfoque combina análisis de datos avanzados con una narrativa estratégica para apoyar decisiones empresariales en la industria hotelera.
+Este proyecto fue desarrollado como parte de un trabajo práctico del programa Data Science de la UOC. Nuestro enfoque combina análisis de datos avanzados de fuentes internas/exógenas con una narrativa estratégica para apoyar la toma de decisiones de la cadena hotelera, con dos recomendaciones finales.
