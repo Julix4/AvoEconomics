@@ -33,6 +33,12 @@ Esta estrategia no solo aumentó la transparencia del equipo, sino que también 
 ## **1. Diagnóstico Actual: Explorando Oportunidades en el Mercado de Aguacates**
 
 Nuestro cliente, la cadena hotelera Hilton (a partir de ahora "Cliente"), esta enfocada en mantener una experiencia premium, con una oferta gastronómica optimizada. 
+
+
+""
+![alt text](images/aguacatelujo.png)
+
+
 Con huéspedes que en los últimos años han demostrado un creciente interés en alimentos saludables y sostenibles, el equipo de Planificación Estratégica del Cliente ha identificado una oportunidad para optimizar los costos y desperdicios de sus menús diseñados para atraer a un mercado de turistas estadounidenses y mexicanos, conocidos por su afinidad cultural con el aguacate focalizandose en dos zonas estratégicas:
 
 1. Zona sur de EEUU: desde California hasta Florida, donde reside la mayoría de mexicanos debido a la cerca con su país de origen.
@@ -81,26 +87,32 @@ Conocido por su enfoque en la alimentación saludable y productos frescos, el re
 
 
 ### Informe As-Is
-Actualmente, el menú de nuestro cliente carece de opciones diferenciadas, lo que podría representar una pérdida de mercado en comparación con hoteles de la misma categoría. Además, no se han evaluado los precios y calidad del aguacate de regiones clave como México, Perú o la misma California para garantizar rentabilidad y la sostenibilidad de la oferta en el tiempo. Tampoco se planifica y negocio la compra de aguacates de forma adecuada. Debido a la amplia opciones de mejor se acuerda con el Cliente focalizarnos en responder 3 preguntas claves de negocio:
+Actualmente, el menú de nuestro cliente carece de opciones diferenciadas, lo que podría representar una pérdida de mercado en comparación con hoteles de la misma categoría. Además, no se han evaluado los precios y calidad del aguacate de regiones clave como México, Perú o la misma California para garantizar rentabilidad y la sostenibilidad de la oferta en el tiempo. Tampoco se planifica y negocio la compra de aguacates de forma adecuada. 
+
+Debido a la amplia opciones de mejoras y oportunidades, para esta primera fase se acuerda con el Cliente focalizarnos en responder 3 preguntas claves de negocio:
 
 
   **Eficiencia en la cadena de suministro y abastecimiento** 
   
   Pregunta clave: ¿Estamos comprando los aguacates de proveedores que equilibran precio, calidad y confiabilidad, minimizando el tiempo de transporte y maximizando la frescura?
+  
   Por qué es importante: Los aguacates tienen una vida útil limitada. Trabajar con proveedores cercanos o con procesos logísticos ágiles asegura que lleguen frescos y se reduzca el desperdicio.
-  Palanca clave: Optimización de proveedores con contratos flexibles y métodos sostenibles.
-
+  
 
   **Control de costos y márgenes en el menú**
   
   Pregunta clave: ¿Estamos generando el margen esperado en los platos que contienen aguacates sin sacrificar la calidad o elevar los costos de operación?
+  
   Por qué es importante: Los aguacates son un ingrediente premium. Es crucial evaluar su contribución al margen bruto del menú y ajustar los precios si es necesario, asegurando que los platos sigan siendo competitivos y rentables.
 
 
   **Monitoreo del desperdicio**
 
   Pregunta clave: ¿Qué porcentaje de los aguacates comprados termina en desperdicio, y qué procesos estamos implementando para reducirlo?
+  
   Por qué es importante: El desperdicio no solo afecta la rentabilidad, sino que también contradice objetivos sostenibles. Evaluar puntos críticos (preparación, almacenamiento o sobrantes en platos) es clave para minimizar pérdidas.
+
+
 
 
 ---
@@ -121,13 +133,13 @@ Para abordar estos desafíos, hemos realizado un análisis exhaustivo basado en 
 
 ![alt text](images/imagepesosavg.jpeg)
 
-Por lo tanto, determinamos los siguientes pesos promedio según el tipo de aguacate: convencional 250gr y orgánico 300gr 
+Por lo tanto, determinamos los siguientes pesos promedio según el tipo de aguacate: **convencional 250gr** y **orgánico 300gr**. 
 
 
 
 ### Fuentes Exógenas:
 - **Organización de las Naciones Unidas para la Alimentación y la Agricultura:** (FAOSTAT_Crops and livestock products.csv) Datos históricos y en tiempo real de mercados clave (México, Perú, California).  
-- **DOrganización de las Naciones Unidas para la Alimentación y la Agricultura:** (FAOSTAT_data_avocado_Producer_Prices.csv) Datos de búsqueda y tendencias de redes sociales, como Instagram y Google Trends.  
+- **Organización de las Naciones Unidas para la Alimentación y la Agricultura:** (FAOSTAT_data_avocado_Producer_Prices.csv) Datos de búsqueda y tendencias de redes sociales, como Instagram y Google Trends.  
 
 
 
@@ -135,25 +147,53 @@ Por lo tanto, determinamos los siguientes pesos promedio según el tipo de aguac
 - **Estadísticas de Turismo:** Afiliación cultural y preferencias alimentarias de turistas mexicanos en los destinos clave.
 
 ### Metodología
-1. **Scraping de Precios:** Datos recopilados de mercados mayoristas y minoristas de aguacates. <COMPLETAR> 
-2. **Análisis Exploratorio:** Visualización de fluctuaciones de precios según región y temporada.  
-3. **Modelos Predictivos:** Forecasting para determinar los precios en las próximas temporadas.  
+1. **Scraping:** Estrictamente no ha sido necesario realizar scraping debido a que pudimos a datos oficiales del mercado de aguacates. 
+2. **Análisis Exploratorio:** Visualización de fluctuaciones de precios según región, temporada y otras variables que mostraremos a continuación.  
+3. **Modelos Predictivos:** Forecasting para determinar los precios en las próximas temporadas.  <COMPLETAR
 4. **Clusterización:** Identificación de regiones con mejor balance de precio y calidad.  
 5. **Correlación:** Relación entre precio del aguacate y popularidad de menús con aguacate en hoteles competidores.
 
 
 ### Análisis
-- **Hallazgo 1:** Los precios de los aguacates tienden a ser más bajos de marzo a junio, coincidiendo con la temporada baja de turismo.  
-- **Hallazgo 2:** México ofrece el mejor balance precio-calidad, pero su precio es más volátil que el de Perú.  
-- **Hallazgo 3:** El 35% de las reseñas en redes sociales que mencionan aguacates también hacen referencia a experiencias de lujo, destacando su potencial en el segmento premium.  
-- **Visualizaciones:** Incluye gráficos de tendencias, correlaciones y clusters.
+- **Hallazgo 1:** Los datos recibidos son heterogéneos, exceden el alcance de nuestro foco actual por lo que debemos preparar y ordenar el set de datos adecuadamente, redefiniendo por ejemplos las 5  regiones a analizar: New york, Louisiana, Texas, Florida, California. Lo mismo aplicado a los datos exógenos recolectados.
+
+- **Hallazgo 2:** Los precios de los aguacates tienden a ser más bajos de marzo a junio, coincidiendo con la temporada baja de turismo.  Por otro lado, a los efectos de nuestro análisis hemos movido estos precios promedio a valor tonelada, sin considerar la variable tamaño de bolsa.
+
+
+- **Hallazgo 3:** México ofrece el mejor balance precio-calidad, pero su precio es más volátil que el de Perú. Por lo que debemos considerar 
+
+
+
 
 ---
 
-## **3. Recomendaciones Estratégicas y Conclusiones**
+## **3. Recomendaciones Estratégicas para la compra óptima de aguacates**
 
-### Insights Relevantes
-1. **Adopción de Aguacates Mexicanos:** Incorporar opciones en el menú premium basadas en aguacates mexicanos, destacando su autenticidad cultural.  
+Basado en el anális de los datos hemos identificado dos estrategias recomendadas, una centralizada y otra descentralizada. Ambas estrategias ofrecen ventajas según las prioridades de la cadena hotelera: si se busca estabilidad y precios competitivos, la centralización es clave; si nuestro cliente  prefiere adaptabilidad y mitigación de riesgos o picos por eventos, la descentralización será más efectiva.
+
+A continuación brindamos un breve detalle de ambas recomendaciones:
+
+
+### Estrategia Centralizada
+
+* Descripción: Comprar a un único proveedor en grandes volúmenes, negociando precios preferenciales y condiciones más favorables. Por ejemplo: 
+
+* Pros: Mejores precios por volumen, relaciones más fuertes con el proveedor, simplificación de la gestión de compras.
+
+* Cons: Riesgo de dependencia de un solo proveedor, vulnerabilidad ante variaciones en la calidad o precios, falta de flexibilidad.
+
+
+### Estrategia Descentralizada
+
+* Descripción: Diversificar las compras entre varios proveedores, ajustando la selección según eventos, temporada o fluctuaciones de precios.
+
+* Pros: Mayor flexibilidad y adaptabilidad a cambios de mercado, acceso a una variedad de productos y calidades, menor riesgo de interrupciones en el suministro.
+
+* Cons: Mayor complejidad en la gestión, posible incremento de costos logísticos y administrativos, dificultades para negociar precios competitivos.
+
+
+### Otras consideraciones
+1. **Fecha de Vencimiento:** Considerar el estado de madurez del aguacate al momento de la compra para reducir pérdidas/merma por vencimiento. Recomendable, según tiempo logísticos entre 5 y 15 días previo al consumo.  
 2. **Sostenibilidad y Marketing:** Promocionar la inclusión de aguacates como parte de un menú saludable y eco-friendly para mejorar la percepción de marca.  
 3. **Ajuste Estacional:** Diseñar estrategias de compra estacional para minimizar el impacto de la volatilidad en precios.  
 
