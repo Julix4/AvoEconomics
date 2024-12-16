@@ -119,7 +119,7 @@ Para abordar estos desafíos, hemos realizado un análisis exhaustivo basado en 
 
 - **Campo derivado**: Para poder estimar la cantidad de aguacate convencionales y orgánicos contenidos en una tonelada y estimar el precio de la tonelada, hemos creado/agregado nuevos campos derivados. Para estimar los pesos promedios de cada aguacate según su tipo nos hemos basado en la siguiente tabla de estandarización:
 
-![alt text](images/imagepesosavg.png)
+![alt text](images/imagepesosavg.jpeg)
 
 Por lo tanto, determinamos los siguientes pesos promedio según el tipo de aguacate: convencional 250gr y orgánico 300gr 
 
