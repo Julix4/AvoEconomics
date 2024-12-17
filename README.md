@@ -144,17 +144,52 @@ Por lo tanto, determinamos los siguientes pesos promedio según el tipo de aguac
 
 2. **Análisis Exploratorio:** Visualización de fluctuaciones de precios según región, temporada y otras variables que mostraremos a continuación.  
 
-<IMAGE>
-- **Hallazgo:**
+![alt text](images/tonelada.jpg)
+
+![alt text](images/series1.jpg)
+
+![alt text](images/serie2.jpg)
+
+- **Hallazgo:** Luego de proyectar la proporción de aguacates convencionales y orgánicos, y estimar su peso, calculamos también el peso en toneladas y precio, procedemos al análisis de series de tiempo para determinar el comportamiento por mes y región.
+Se puede observar que anualmente se repite una bajada en el AveragePrice en el mes de Febrero así como un pico de subida en los meses de Octubre y Noviembre.
+Esto podría deberser a que en septiembre inicia el fin de la temporada de cosecha del aguacate, y por eso tenemos un costo más alto en Octubre y Noviembre, si le sumamos también que en Noviembre hay el día de Acción de Gracias donde es muy común el uso del aguacate para hacer Guacamole en USA.
 
 
 3. **Análisis de Cohortes:** Análsis de la estacionalidad, desperdicios y eventos.
-<IMAGE>
+
+
+![alt text](images/cohortes1.jpg)
+
+![alt text](images/cohortes2.jpg)
+
+![alt text](images/cohortes3.png)
+
+![alt text](images/cohortes4.png)
+
+![alt text](images/cohortes5.png)
+
+![alt text](images/cohortes6.png)
+
+![alt text](images/cohortes7.png)
+
+![alt text](images/cohortes8-1.png)
+
+![alt text](images/festivosUSA-1.jpg)
+
+![alt text](images/cohortes9-1.png)
+
+![alt text](images/cohortes10.png)
+
+
 - **Hallazgo:**
+
 
    
 4. **Modelo de Clasificación:** Utilizamos este modelo para el análisis de proveedores top 10.
+
 <IMAGE>
+
+
 - **Hallazgo:**
 
 
