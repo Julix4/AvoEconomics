@@ -67,29 +67,12 @@ Por lo tanto, las zonas geográficas alcanzadas en esta iniciativa son:
 
 - **Competencia:** Resorts líderes que incluyen guacamole gourmet, tostadas de aguacate y opciones con aguacate en sus menús. 
 
-Entre ellos, se destacan como principales competidores:
-
-  **1.Ojai Valley Inn, California**
-Este resort en California es famoso por su experiencia de bienestar y alimentos frescos, que incluyen opciones como guacamole en sus menús de cocina saludable​
-
-**2.The Ritz-Carlton, Sarasota, Florida**
-Ofrece menús que incorporan aguacate, aprovechando ingredientes frescos para opciones saludables como guacamole en sus platos de ensaladas y snacks​
-
-**3.La Playa Beach & Golf Resort, Naples, Florida**
-Se destacan sus opciones saludables, como ensaladas con aguacate y guacamole, integrados en el menú de su restaurante gourmet​
-
-**4.Hotel del Coronado, San Diego, California**
-Histórico hotel que incluye varias opciones frescas y saludables, con aguacate como un ingrediente clave, ya sea en ensaladas o como parte del menú de desayuno​
-
-**5.The Standard, Miami, Florida**
-Conocido por su enfoque en la alimentación saludable y productos frescos, el restaurante de este hotel incluye guacamole y otros platos a base de aguacate​s
-
 
 
 ### Informe As-Is
 Actualmente, el menú de nuestro cliente carece de opciones diferenciadas, lo que podría representar una pérdida de mercado en comparación con hoteles de la misma categoría. Además, no se han evaluado los precios y calidad del aguacate de regiones clave como México, Perú o la misma California para garantizar rentabilidad y la sostenibilidad de la oferta en el tiempo. Tampoco se planifica y negocio la compra de aguacates de forma adecuada. 
 
-Debido a la amplia opciones de mejoras y oportunidades, para esta primera fase se acuerda con el Cliente focalizarnos en responder 3 preguntas claves de negocio:
+Debido a la amplia opciones de mejoras y oportunidades, para esta primera fase se acuerda con el Cliente focalizarnos en responder dos preguntas claves de negocio:
 
 
   **Eficiencia en la cadena de suministro y abastecimiento** 
@@ -98,13 +81,6 @@ Debido a la amplia opciones de mejoras y oportunidades, para esta primera fase s
   
   Por qué es importante: Los aguacates tienen una vida útil limitada. Trabajar con proveedores cercanos o con procesos logísticos ágiles asegura que lleguen frescos y se reduzca el desperdicio.
   
-
-  **Control de costos y márgenes en el menú**
-  
-  Pregunta clave: ¿Estamos generando el margen esperado en los platos que contienen aguacates sin sacrificar la calidad o elevar los costos de operación?
-  
-  Por qué es importante: Los aguacates son un ingrediente premium. Es crucial evaluar su contribución al margen bruto del menú y ajustar los precios si es necesario, asegurando que los platos sigan siendo competitivos y rentables.
-
 
   **Monitoreo del desperdicio**
 
@@ -147,25 +123,45 @@ Por lo tanto, determinamos los siguientes pesos promedio según el tipo de aguac
 - **Estadísticas de Turismo:** Afiliación cultural y preferencias alimentarias de turistas mexicanos en los destinos clave.
 
 ### Metodología
-1. **Scraping:** Estrictamente no ha sido necesario realizar scraping debido a que pudimos a datos oficiales del mercado de aguacates. 
+1. **Variables Exógenas:** No fue necesario hacer scraping debido a que pudimos obtener acceso a datos oficiales del mercado de aguacates. 
 2. **Análisis Exploratorio:** Visualización de fluctuaciones de precios según región, temporada y otras variables que mostraremos a continuación.  
-3. **Modelos Predictivos:** Forecasting para determinar los precios en las próximas temporadas.  <COMPLETAR
-4. **Clusterización:** Identificación de regiones con mejor balance de precio y calidad.  
-5. **Correlación:** Relación entre precio del aguacate y popularidad de menús con aguacate en hoteles competidores.
+3. **Análisis de Cohortes:** Análsis de la estacionalidad, desperdicios y eventos.
+4. **Modelo de Clasificación:** Utilizamos este modelo para el análisis de proveedores top 10.
+5. **Modelos Predictivos:** Forecasting para determinar los precios en las próximas temporadas.
+
 
 
 ### Análisis
-- **Hallazgo 1:** Los datos recibidos son heterogéneos, exceden el alcance de nuestro foco actual por lo que debemos preparar y ordenar el set de datos adecuadamente, redefiniendo por ejemplos las 5  regiones a analizar: New york, Louisiana, Texas, Florida, California. Lo mismo aplicado a los datos exógenos recolectados.
 
-- **Hallazgo 2:** Los precios de los aguacates tienden a ser más bajos de marzo a junio, coincidiendo con la temporada baja de turismo.  Por otro lado, a los efectos de nuestro análisis hemos movido estos precios promedio a valor tonelada, sin considerar la variable tamaño de bolsa.
+1. **Variables Exógenas:** No fue necesario hacer scraping debido a que pudimos obtener acceso a datos oficiales del mercado de aguacates.
+
+   <IMAGEN>
+   
+- **Hallazgo:** Los datos recibidos son heterogéneos, exceden el alcance de nuestro foco actual por lo que debemos preparar y ordenar el set de datos adecuadamente, redefiniendo por ejemplos las 5  regiones a analizar: New york, Louisiana, Texas, Florida, California. Lo mismo aplicado a los datos exógenos recolectados.
 
 
-- **Hallazgo 3:** México ofrece el mejor balance precio-calidad, pero su precio es más volátil que el de Perú. Por lo que debemos considerar 
+2. **Análisis Exploratorio:** Visualización de fluctuaciones de precios según región, temporada y otras variables que mostraremos a continuación.  
+
+<IMAGE>
+- **Hallazgo:**
 
 
+3. **Análisis de Cohortes:** Análsis de la estacionalidad, desperdicios y eventos.
+<IMAGE>
+- **Hallazgo:**
 
+   
+4. **Modelo de Clasificación:** Utilizamos este modelo para el análisis de proveedores top 10.
+<IMAGE>
+- **Hallazgo:**
+
+
+5. **Modelos Predictivos:** Forecasting para determinar los precios en las próximas temporadas.
+<IMAGE>
+- **Hallazgo:**
 
 ---
+
 
 ## **3. Recomendaciones Estratégicas para la compra óptima de aguacates**
 
