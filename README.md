@@ -1,6 +1,5 @@
 # **Estudio de Mercado y Análisis de Aguacates para Cadena Hotelera**
 
-Nombre del proyecto
 # **"AvoEconomics: The Business of Green Gold"**
 Cómo el aguacate transforma estrategias en los hoteles de lujo de la cadena Hilton.
 
@@ -306,15 +305,15 @@ Podemos observar el rango de precios obtenido en la regresión lineral con un +-
 
 ![alt text](images/proveedores9.png)
 
-Area	R2
-0	Brazil	NaN
-1	Chile	0.796691
-2	Colombia	0.112521
-3	Dominican Republic	0.189719
-4	Ecuador	0.615056
-5	Mexico	0.011261
-6	Peru	0.822800
-7	United States of America	0.122737
+	Area	R2
+	Brazil	NaN
+	Chile	0.796691
+	Colombia	0.112521
+	Dominican Republic	0.189719
+	Ecuador	0.615056
+	Mexico	0.011261
+	Peru	0.822800
+	United States of America	0.122737
 
 Con el cálculo del error cuadrático medio observamos que el modelo de regresión es adecuado para Chile, Perú y Ecuador en cambio para lugares más fluctuantes como Colombia, Republica Dominicana, México y Estados Unidos se provará un modelo de regresión polinómica de grado dos.
 
@@ -337,10 +336,10 @@ Datos proyectados por país.
 #### Regresión Polinómica
 
 Area	Polynomial R2
-0	Colombia	0.115992
-1	Dominican Republic	0.302195
-2	Mexico	0.014406
-3	United States of America	0.123772
+Colombia	0.115992
+Dominican Republic	0.302195
+Mexico	0.014406
+United States of America	0.123772
 
 Para Colombia, un modelo polinómico de grado 2 mejora considerablemente el ajuste.
 México y República Dominicana aún muestran un ajuste limitado. Modelos más complejos, como series temporales o modelos no lineales como Random Forest, podrían ser más efectivos.
@@ -348,17 +347,9 @@ México y República Dominicana aún muestran un ajuste limitado. Modelos más c
 ![alt text](images/proveedores10.png)
 
 	Year	Projected Price (USD/tonne)	Type
-0	2019	963.041737	Projected
-1	2020	953.520684	Projected
-2	2021	949.318129	Projected
-
-#### Ramdom Forest
-
-
-
-
-- **Hallazgo:**
-
+	2019	963.041737	Projected
+	2020	953.520684	Projected
+	2021	949.318129	Projected
 
 ---
 
@@ -372,7 +363,7 @@ A continuación brindamos un breve detalle de ambas recomendaciones:
 
 ### Estrategia Centralizada
 
-* Descripción: Comprar a un único proveedor en grandes volúmenes, negociando precios preferenciales y condiciones más favorables. Por ejemplo:
+* Descripción: Comprar a un único proveedor en grandes volúmenes, negociando precios preferenciales y condiciones más favorables. Por ejemplo: México y Estados Unidos.
 
 * Pros: Mejores precios por volumen, relaciones más fuertes con el proveedor, simplificación de la gestión de compras.
 
@@ -381,7 +372,7 @@ A continuación brindamos un breve detalle de ambas recomendaciones:
 
 ### Estrategia Descentralizada
 
-* Descripción: Diversificar las compras entre varios proveedores, ajustando la selección según eventos, temporada o fluctuaciones de precios.
+* Descripción: Diversificar las compras entre varios proveedores, ajustando la selección según eventos, temporada o fluctuaciones de precios. Proponemos Perú, República Dominicana y Chile
 
 * Pros: Mayor flexibilidad y adaptabilidad a cambios de mercado, acceso a una variedad de productos y calidades, menor riesgo de interrupciones en el suministro.
 
@@ -392,18 +383,6 @@ A continuación brindamos un breve detalle de ambas recomendaciones:
 1. **Fecha de Vencimiento:** Considerar el estado de madurez del aguacate al momento de la compra para reducir pérdidas/merma por vencimiento. Recomendable, según tiempo logísticos entre 5 y 15 días previo al consumo.
 2. **Sostenibilidad y Marketing:** Promocionar la inclusión de aguacates como parte de un menú saludable y eco-friendly para mejorar la percepción de marca.
 3. **Ajuste Estacional:** Diseñar estrategias de compra estacional para minimizar el impacto de la volatilidad en precios.
-
-### Propuesta de Acción
-- Incluir platos como tostadas gourmet, guacamole en piedra y smoothies con aguacate.
-- Negociar contratos estacionales con productores mexicanos para asegurar la mejor calidad a precios competitivos.
-- Realizar campañas dirigidas en redes sociales para atraer al mercado objetivo.
-
----
-
-## **Cómo Usar Este Repositorio**
-1. **Carpeta `/data`:** Contiene los datasets utilizados, incluyendo precios de compra históricos y datos exógenos.
-2. **Carpeta `/images`:** Contiene todas las imágenes utilizadas en este Readme.
-3. **Carpeta `/utils`:** Contiene funciones utilizadas para ordenar y redefinir las regiones foco.
 
 ---
 
