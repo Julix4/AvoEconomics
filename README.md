@@ -133,11 +133,13 @@ Por lo tanto, determinamos los siguientes pesos promedio según el tipo de aguac
 
 ### Análisis
 
-1. **Variables Exógenas:** No fue necesario hacer scraping debido a que pudimos obtener acceso a datos oficiales del mercado de aguacates.
+1. **Variables Exógenas:** No fue necesario realizar scraping debido a que pudimos obtener acceso a datos oficiales del mercado de aguacates descargando un archivo csv.
 
-   <IMAGEN>
+   ![alt text](images/exo1.jpg)
+   ![alt text](images/exo2.jpg)
    
-- **Hallazgo:** Los datos recibidos son heterogéneos, exceden el alcance de nuestro foco actual por lo que debemos preparar y ordenar el set de datos adecuadamente, redefiniendo por ejemplos las 5  regiones a analizar: New york, Louisiana, Texas, Florida, California. Lo mismo aplicado a los datos exógenos recolectados.
+- **Hallazgo:** Los datos recibidos son heterogéneos, exceden el alcance de nuestro foco actual por lo que debemos preparar y ordenar el set de datos adecuadamente, redefiniendo por ejemplos las 5  regiones a analizar: New york, Louisiana, Texas, Florida, California. Lo mismo aplicado a los datos exógenos recolectados. Esto aplica tanto a las variables exógenas visualizadas aquí, como a los datos internos de histórico de compras.
+
 
 
 2. **Análisis Exploratorio:** Visualización de fluctuaciones de precios según región, temporada y otras variables que mostraremos a continuación.  
