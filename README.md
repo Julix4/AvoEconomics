@@ -172,11 +172,11 @@ Esto podría deberser a que en septiembre inicia el fin de la temporada de cosec
 
 ![alt text](images/cohortes7.png)
 
-![alt text](images/cohortes8-1.png)
+![alt text](images/cohortes8.png)
 
-![alt text](images/festivosUSA-1.jpg)
+![alt text](images/festivosUSA.jpg)
 
-![alt text](images/cohortes9-1.png)
+![alt text](images/cohortes9.png)
 
 ![alt text](images/cohortes10.png)
 
