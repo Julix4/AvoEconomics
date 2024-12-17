@@ -69,29 +69,14 @@ Por lo tanto, las zonas geográficas alcanzadas en esta iniciativa son:
 
 
 ### Informe As-Is
-Actualmente, el menú de nuestro cliente carece de opciones diferenciadas, lo que podría representar una pérdida de mercado en comparación con hoteles de la misma categoría. Además, no se han evaluado los precios y calidad del aguacate de regiones clave como México, Perú o la misma California para garantizar rentabilidad y la sostenibilidad de la oferta en el tiempo. Tampoco se planifica y negocio la compra de aguacates de forma adecuada.
+Actualmente, la gestión de compras y desperdicios en la cadena hotelera presenta oportunidades críticas de mejora que impactan directamente en la rentabilidad. La falta de planificación adecuada y negociación estratégica en la compra de insumos, como el aguacate, junto con un manejo ineficiente de los desperdicios, genera costos innecesarios y limita la sostenibilidad de la operación.
 
-Debido a la amplia opciones de mejoras y oportunidades, para esta primera fase se acuerda con el Cliente focalizarnos en responder dos preguntas claves de negocio:
+No se han considerado factores clave como los precios y la calidad de proveedores en regiones estratégicas como México, Perú y California, lo que compromete la competitividad frente a hoteles de la misma categoría. Además, la ausencia de un enfoque claro en minimizar pérdidas alimentarias representa un desafío para maximizar el rendimiento de la inversión en insumos.
 
-
-  **Eficiencia en la cadena de suministro y abastecimiento**
-
-  Pregunta clave: ¿Estamos comprando los aguacates de proveedores que equilibran precio, calidad y confiabilidad, minimizando el tiempo de transporte y maximizando la frescura?
-
-  Por qué es importante: Los aguacates tienen una vida útil limitada. Trabajar con proveedores cercanos o con procesos logísticos ágiles asegura que lleguen frescos y se reduzca el desperdicio.
-
-
-  **Monitoreo del desperdicio**
-
-  Pregunta clave: ¿Qué porcentaje de los aguacates comprados termina en desperdicio, y qué procesos estamos implementando para reducirlo?
-
-  Por qué es importante: El desperdicio no solo afecta la rentabilidad, sino que también contradice objetivos sostenibles. Evaluar puntos críticos (preparación, almacenamiento o sobrantes en platos) es clave para minimizar pérdidas.
-
-
+Con base en estas oportunidades, en esta primera fase nos enfocaremos en responder dos preguntas clave para el negocio, que guiarán un plan efectivo hacia la optimización de las compras y la reducción de desperdicios.
 
 
 ---
-
 
 
 ## **2. Transformando Datos en Oportunidades: Análisis de los Datos**
@@ -99,7 +84,6 @@ Debido a la amplia opciones de mejoras y oportunidades, para esta primera fase s
 Para abordar estos desafíos, hemos realizado un análisis exhaustivo basado en datos relevantes sobre precios y calidad del aguacate. Para ellos hemos incorporado variables internas y exógenas. A continuación detallamos las fuentes de datos utilizadas:
 
 ### Fuentes Internas:
-- **Consumo gastronómico de la cadena hotelera:** (consumoshistoricos.csv): Contiene ...<COMPLETAR>
 
 - **Avocado:** (avocado.csv): Contiene los datos venta de aguacate que nuestro cliente ha comprado de una consultora para analizar internamente. Este acrchivo contiene los campos: Date,AveragePrice,Total Volume,4046,4225,4770,Total Bags,Small Bags,Large Bags,XLarge Bags,type,year,region
 
@@ -110,16 +94,13 @@ Para abordar estos desafíos, hemos realizado un análisis exhaustivo basado en 
 
 Por lo tanto, determinamos los siguientes pesos promedio según el tipo de aguacate: **convencional 250gr** y **orgánico 300gr**.
 
-
-
 ### Fuentes Exógenas:
-- **Organización de las Naciones Unidas para la Alimentación y la Agricultura:** (FAOSTAT_Crops and livestock products.csv) Datos históricos y en tiempo real de mercados clave (México, Perú, California).
-- **Organización de las Naciones Unidas para la Alimentación y la Agricultura:** (FAOSTAT_data_avocado_Producer_Prices.csv) Datos de búsqueda y tendencias de redes sociales, como Instagram y Google Trends.
-
-
-
-
-- **Estadísticas de Turismo:** Afiliación cultural y preferencias alimentarias de turistas mexicanos en los destinos clave.
+- **Organización de las Naciones Unidas para la Alimentación y la Agricultura:**
+Proporciona datos relacionados con la exportación de aguacate para diversos países.
+(FAOSTAT_Crops and livestock products.csv) Datos históricos y en tiempo real de mercados clave (México, Perú, California).
+- **Organización de las Naciones Unidas para la Alimentación y la Agricultura:**
+Proporciona datos relacionados con los productores de aguacate para diversos países.
+(FAOSTAT_data_avocado_Producer_Prices.csv) Datos de búsqueda y tendencias de redes sociales, como Instagram y Google Trends.
 
 ### Metodología
 1. **Variables Exógenas:** No fue necesario hacer scraping debido a que pudimos obtener acceso a datos oficiales del mercado de aguacates.
